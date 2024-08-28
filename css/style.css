@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+nav a {
+    margin-left: 30px;
+    text-decoration: none;
+    font-family: Arial black;
+    background-color: rgb(212, 233, 135);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+}
+
+main {
+    margin-left: 30px;
+}
